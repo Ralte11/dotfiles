@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rolandralte2000@gmail.com
+	name = Roland Lalhruaizela
